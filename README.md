@@ -1,2 +1,2 @@
 # MicroServiceApplicationDemo
-微服务使用示例
+使用说明见微服务使用示例里
